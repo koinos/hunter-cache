@@ -1,8 +1,0 @@
-Boost
-Boost filesystem
-Boost log
-Boost test
-OpenSSL
-koinos_exception
-koinos_types
-nlohmann_json
