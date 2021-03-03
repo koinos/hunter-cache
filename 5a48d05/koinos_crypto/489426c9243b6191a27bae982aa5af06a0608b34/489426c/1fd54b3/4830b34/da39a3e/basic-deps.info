@@ -1,0 +1,9 @@
+Boost
+Boost filesystem
+Boost log
+Boost test
+OpenSSL
+koinos_exception
+koinos_types
+libsecp256k1
+nlohmann_json
