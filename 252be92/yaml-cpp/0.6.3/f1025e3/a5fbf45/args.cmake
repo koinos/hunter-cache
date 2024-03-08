@@ -1,4 +1,0 @@
-set("YAML_CPP_BUILD_TESTS" "OFF" CACHE INTERNAL "")
-set("YAML_CPP_BUILD_TOOLS" "OFF" CACHE INTERNAL "")
-set("CMAKE_CXX_FLAGS" "-fvisibility=hidden" CACHE INTERNAL "")
-set("CMAKE_C_FLAGS" "-fvisibility=hidden" CACHE INTERNAL "")
